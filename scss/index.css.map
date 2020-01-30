@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EAAE;EACE,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,SAAS",
+"sources": ["index.scss"],
+"names": [],
+"file": "index.css"
+}
