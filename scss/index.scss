@@ -1,4 +1,69 @@
-.t{
-    border: solid;
-    color: royalblue;
+.cabeza{
+    #titu{
+        
+        text-align: -webkit-center;
+        color: dimgrey;
+        padding: 13px 0px;
+    }
+}
+.caja{
+    width: 100%;
+    .imagen{
+        float: right;
+        width: 64%;
+        
+    }
+    .texca{
+        width: 100%;
+        .texcaa{
+            width: 59%;
+            float: right;
+            text-align: center;
+        }
+    }
+}
+.caja1{
+    width: 100%;
+    margin: 9px;
+    padding: 46px;
+    .texca1{
+        text-align: -webkit-center;
+    }
+}
+.caja2{
+    width: 100%;
+    margin: 9px;
+    padding: 46px;
+    .texto{
+        width: 19%;
+        margin: -69px 130px;
+    }
+}
+.caja3{
+    width: 50%;
+    float: right;
+    .textca3{
+        text-align: center;
+    }
+}
+.caja4{
+    width: 39%;
+    padding: 100px;
+}
+.caja5{
+    width: 100%;
+    .caj5{
+        clear: both;
+        width: 100%;
+        text-align: center;
+    }
+}
+.caja6{
+    width: 100%;
+    .img5{
+        text-align: center;
+    }
+    .tex6{
+        text-align: center;
+    }
 }

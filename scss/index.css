@@ -1,5 +1,57 @@
-.t {
-  border: solid;
-  color: royalblue; }
+.cabeza #titu {
+  text-align: -webkit-center;
+  color: dimgrey;
+  padding: 13px 0px; }
+
+.caja {
+  width: 100%; }
+  .caja .imagen {
+    float: right;
+    width: 64%; }
+  .caja .texca {
+    width: 100%; }
+    .caja .texca .texcaa {
+      width: 59%;
+      float: right;
+      text-align: center; }
+
+.caja1 {
+  width: 100%;
+  margin: 9px;
+  padding: 46px; }
+  .caja1 .texca1 {
+    text-align: -webkit-center; }
+
+.caja2 {
+  width: 100%;
+  margin: 9px;
+  padding: 46px; }
+  .caja2 .texto {
+    width: 19%;
+    margin: -69px 130px; }
+
+.caja3 {
+  width: 50%;
+  float: right; }
+  .caja3 .textca3 {
+    text-align: center; }
+
+.caja4 {
+  width: 39%;
+  padding: 100px; }
+
+.caja5 {
+  width: 100%; }
+  .caja5 .caj5 {
+    clear: both;
+    width: 100%;
+    text-align: center; }
+
+.caja6 {
+  width: 100%; }
+  .caja6 .img5 {
+    text-align: center; }
+  .caja6 .tex6 {
+    text-align: center; }
 
 /*# sourceMappingURL=index.css.map */
