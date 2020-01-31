@@ -67,3 +67,37 @@
         text-align: center;
     }
 }
+
+.contenedor{
+    width: 100%;
+    background-attachment: fixed;
+    padding: 12px;
+    float:rigth;
+    
+    .contenedor1{
+
+        width: 50%;
+        background: solid;
+        float: left;
+
+        .contenedor2{
+            float: left;
+            .contenedor3{
+                
+                width:50%;
+                padding-block-start: 10px;
+                .contenedor4{
+                    width:50%;
+                    height: 43px 40px;
+                    float: left;
+
+                    }
+                    .contenedor7{
+                        float left;
+                        width: 32%;
+                        height:33px
+                    }
+                }
+            }
+        }
+    }
